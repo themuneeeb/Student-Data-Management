@@ -1,2 +1,3 @@
 # Student-Data-Management
 Student Data Management(Admin Panel)
+This C++ source code defines a simple program for an administration panel related to student data management. The program allows the user to input and manage student information such as roll numbers, Computer Science and Mathematics marks, and then calculates percentages and assigns grades. The code includes functions for updating and deleting records, sorting data based on percentages, and displaying the final information for enrolled students. The administration panel operates through a console-based user interface, providing options to perform various operations on student records.
